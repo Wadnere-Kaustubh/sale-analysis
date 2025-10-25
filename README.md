@@ -54,5 +54,10 @@ Built using a **sample Amazon sales dataset**, including product details, sales 
 - Add profit margin and regional sales analysis.  
 - Connect to live data sources for real-time analytics.  
   
-
 ---
+
+## Screenshots of Dashboard
+<img width="1329" height="746" alt="image" src="https://github.com/user-attachments/assets/9de0eb5c-d7b9-4211-9cb7-1014b1fafc29" />
+
+
+
